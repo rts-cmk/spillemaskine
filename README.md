@@ -2,7 +2,7 @@
 
 Du skal lave en spillemaskine/enarmet tyveknægt.
 
-Spillemaskinen skal først og fremmest være funktionel, og skal som minimum overholde følgende krav:
+Spillemaskinen skal **først og fremmest være funktionel** (fokuser på javascript), og skal som minimum overholde følgende krav:
 
 1. Spillemaskinen skal have 3 hjul/slots. (Du kan fx. arbejde med et array for hvert hjul)
 2. Der skal arbejdes med sandsynlighed ex. 3 citroner er lettere at ramme end 3 bar
@@ -14,12 +14,16 @@ Spillemaskinen skal først og fremmest være funktionel, og skal som minimum ove
 6. Overvej aktivt hvordan du organiserer din javascript. 
    * Ekstraopgave: Opdel dit program i separate filer til hver funktionalitet.
 
-Der er mapper med billeder du kan bruge.
+I mappen icons ligger billeder du kan bruge til hjulene.
 Du må gerne selv finde andre billeder.
-
 
 ## Ekstra muligeder
 
-Hvis du har tid kan du arbejde interfacet og de visuelle effekter.
+I mappen inspiration ligger nogle baggrundsbilleder og et screenshot, hvor du kan se hvordan spillemaskinen KUNNE se ud. 
+Du må naturlivis gerne arbejde med din egen visuelle stil.
+
+## Ekstra muligeder
+
+Hvis du har tid kan du arbejde med de visuelle effekter.
 Du kan også tilføje lydeffekter.
 
