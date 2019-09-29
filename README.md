@@ -17,8 +17,7 @@ Spillemaskinen skal **først og fremmest være funktionel** (fokuser på javascr
 I mappen icons ligger billeder du kan bruge til hjulene.
 Du må gerne selv finde andre billeder.
 
-## Ekstra muligeder
-
+## Visuel inspiration
 I mappen inspiration ligger nogle baggrundsbilleder og et screenshot, hvor du kan se hvordan spillemaskinen KUNNE se ud. 
 Du må naturlivis gerne arbejde med din egen visuelle stil.
 
